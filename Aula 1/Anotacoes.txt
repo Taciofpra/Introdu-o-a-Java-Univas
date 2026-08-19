@@ -1,0 +1,17 @@
+
+Tipos de dados
+
+byte       -128 a 127
+short      -32768 a 32767
+int        -2b a 2b
+long       grandes inteiros
+float      numeros com ponto flutuante
+double     grandes numeros com pontos flutuantes
+char       caractere unico
+boolean    true ou false
+
+Tipo para texto:
+
+String -> é uma classe, armazenam referencias a objetos de texto
+
+ex: String nome = "João";

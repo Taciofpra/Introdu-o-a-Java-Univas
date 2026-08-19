@@ -1,0 +1,14 @@
+Operadores Aritiméticos
+
++
+-
+*
+/
+%
+
+incremento/decremento
+
+++x
+x++
+--x
+x--
