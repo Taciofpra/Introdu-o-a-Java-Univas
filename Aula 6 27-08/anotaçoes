@@ -1,0 +1,18 @@
+
+
+operadores logicos
+and: &&
+or: ||
+not: !
+
+if else
+
+if(){
+
+}else if(){
+
+} else {
+
+}
+
+

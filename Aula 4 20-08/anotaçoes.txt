@@ -1,0 +1,9 @@
+
+
+scanner
+nextint() não consome enter
+nextline() consome e o usuario nao consegue digitar
+
+-> usar sempre nextiline()
+-> converter para tipo correto
+    double altura = Double.parsedouble(input.nextline())
